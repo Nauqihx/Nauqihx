@@ -1,6 +1,6 @@
 # HeapPivot
 
-> Aspiring offensive security engineer. Studying how Windows executes code where abstractions break down..
+> Aspiring offensive security engineer. Studying how Windows executes code where abstractions break down.
 ---
 
 ## Focus
