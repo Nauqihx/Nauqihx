@@ -17,4 +17,4 @@ Most exploitation is about control, not chaos.
 
 *Building low-level understanding before advanced exploitation.*
 
-BE, DH, FG, GM, PL, CR, RC, NS, IC, OC, SE
+BE, DH, FG, GM, PL, CR, RC, NS, IC, OC, SE, JE
